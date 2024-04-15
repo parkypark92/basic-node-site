@@ -1,0 +1,12 @@
+{
+  "name": "basic-node-site",
+  "version": "1.0.0",
+  "description": "A basic informational site to incorporate a simple http server using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
